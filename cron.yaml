@@ -1,0 +1,4 @@
+cron:
+- description: Check if bot is running
+  url: /cron
+  schedule: every 60 minutes
